@@ -1,0 +1,3 @@
+101;Marta Martić;mmartic;0;1;0
+102;Luka Lukić;llukic;0;0;1
+103;Sara Sarić;ssaric;1;0;0

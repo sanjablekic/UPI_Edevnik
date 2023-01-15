@@ -1,0 +1,16 @@
+1001;Ana Vujić;avujic;5A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1002;Lana Matić;lmatic;5A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1003;Matija Vujić;mvujic;5A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1004;David Gašpar;dgaspar;5A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1005;Petra Antić;pantic;6A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1006;Klara Jurić;kjuric;6A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1007;Matej Lučić;mlucic;6A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1008;Ante Petrović;apetrovic;6A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1009;Lara Slavić;lslavic;7A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1010;Ivan Horvat;ihorvat;7A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1011;Lucija Morić;lmoric;7A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1012;Katja Zec;kzec;7A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1013;Marija Jukić;mjukic;8A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1014;Luka Božić;lbozic;8A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1015;Mia Sarić;msaric;8A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;
+1016;Lora Lovrić;llovric;8A;Ocjene HRV:;Ocjene ENG:;Ocjene MAT:;0;0;0;Novi izostanci:;Biljeske HRV:;Biljeske ENG:;Biljeske MAT:;

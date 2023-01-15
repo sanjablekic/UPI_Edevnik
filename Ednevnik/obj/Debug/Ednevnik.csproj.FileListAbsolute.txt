@@ -1,0 +1,16 @@
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\bin\Debug\Ednevnik.exe.config
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\bin\Debug\Ednevnik.exe
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\bin\Debug\Ednevnik.pdb
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.csprojAssemblyReference.cache
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.Form1.resources
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.Form2.resources
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.Form3.resources
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.Form4.resources
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.Properties.Resources.resources
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.csproj.GenerateResource.cache
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.csproj.CoreCompileInputs.cache
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.exe
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.pdb
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\bin\Debug\nunit.framework.dll
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\bin\Debug\nunit.framework.xml
+C:\Users\Vana\Desktop\Ednevnik\Ednevnik\obj\Debug\Ednevnik.csproj.CopyComplete
